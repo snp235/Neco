@@ -11,6 +11,25 @@
 		F60745CA2B06C867002F8E62 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60745C92B06C867002F8E62 /* ContentView.swift */; };
 		F60745CC2B06C869002F8E62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F60745CB2B06C869002F8E62 /* Assets.xcassets */; };
 		F60745CF2B06C869002F8E62 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F60745CE2B06C869002F8E62 /* Preview Assets.xcassets */; };
+		F60745D62B06D0F8002F8E62 /* Wellcome01View.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60745D52B06D0F8002F8E62 /* Wellcome01View.swift */; };
+		F60745DA2B06EB28002F8E62 /* Wellcome02View.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60745D92B06EB28002F8E62 /* Wellcome02View.swift */; };
+		F60745DC2B06ED88002F8E62 /* Wellcome03View.swift in Sources */ = {isa = PBXBuildFile; fileRef = F60745DB2B06ED88002F8E62 /* Wellcome03View.swift */; };
+		F64EF5742B5D7F1C007EA705 /* CourseDetails01_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64EF5732B5D7F1C007EA705 /* CourseDetails01_View.swift */; };
+		F64EF5762B5D8223007EA705 /* CourseTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64EF5752B5D8223007EA705 /* CourseTabView.swift */; };
+		F64EF5782B618046007EA705 /* Search.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64EF5772B618046007EA705 /* Search.swift */; };
+		F64EF57A2B629806007EA705 /* TesteView\.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64EF5792B629806007EA705 /* TesteView\.swift */; };
+		F64EF57C2B6298B1007EA705 /* AIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64EF57B2B6298B1007EA705 /* AIView.swift */; };
+		F64EF57E2B6FA979007EA705 /* VegetableDetailView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64EF57D2B6FA979007EA705 /* VegetableDetailView2.swift */; };
+		F64EF5802B6FAE3B007EA705 /* VegetableDetailView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64EF57F2B6FAE3B007EA705 /* VegetableDetailView3.swift */; };
+		F64EF5822B7269AB007EA705 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F64EF5812B7269AB007EA705 /* WebView.swift */; };
+		F66812A32B0ED0BF00948CF2 /* CookBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F66812A22B0ED0BF00948CF2 /* CookBookView.swift */; };
+		F66812A52B10084800948CF2 /* LearnSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F66812A42B10084800948CF2 /* LearnSessionView.swift */; };
+		F6755A2C2B4C2E99003221F3 /* Chat_View01.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6755A2B2B4C2E99003221F3 /* Chat_View01.swift */; };
+		F6755A2E2B4C3B93003221F3 /* ChatService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6755A2D2B4C3B93003221F3 /* ChatService.swift */; };
+		F6C555862B28B531004CA366 /* StudyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6C555852B28B531004CA366 /* StudyView.swift */; };
+		F6C555882B2F2F71004CA366 /* VegetableDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6C555872B2F2F71004CA366 /* VegetableDetailView.swift */; };
+		F6F00E382B0B7F18004BFA5F /* PrincipalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F00E372B0B7F18004BFA5F /* PrincipalView.swift */; };
+		F6F00E3A2B0C332D004BFA5F /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6F00E392B0C332D004BFA5F /* TabView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +38,25 @@
 		F60745C92B06C867002F8E62 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F60745CB2B06C869002F8E62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F60745CE2B06C869002F8E62 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F60745D52B06D0F8002F8E62 /* Wellcome01View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wellcome01View.swift; sourceTree = "<group>"; };
+		F60745D92B06EB28002F8E62 /* Wellcome02View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wellcome02View.swift; sourceTree = "<group>"; };
+		F60745DB2B06ED88002F8E62 /* Wellcome03View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wellcome03View.swift; sourceTree = "<group>"; };
+		F64EF5732B5D7F1C007EA705 /* CourseDetails01_View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseDetails01_View.swift; sourceTree = "<group>"; };
+		F64EF5752B5D8223007EA705 /* CourseTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseTabView.swift; sourceTree = "<group>"; };
+		F64EF5772B618046007EA705 /* Search.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Search.swift; sourceTree = "<group>"; };
+		F64EF5792B629806007EA705 /* TesteView\.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TesteView\\.swift"; sourceTree = "<group>"; };
+		F64EF57B2B6298B1007EA705 /* AIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AIView.swift; sourceTree = "<group>"; };
+		F64EF57D2B6FA979007EA705 /* VegetableDetailView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableDetailView2.swift; sourceTree = "<group>"; };
+		F64EF57F2B6FAE3B007EA705 /* VegetableDetailView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableDetailView3.swift; sourceTree = "<group>"; };
+		F64EF5812B7269AB007EA705 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		F66812A22B0ED0BF00948CF2 /* CookBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookBookView.swift; sourceTree = "<group>"; };
+		F66812A42B10084800948CF2 /* LearnSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnSessionView.swift; sourceTree = "<group>"; };
+		F6755A2B2B4C2E99003221F3 /* Chat_View01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chat_View01.swift; sourceTree = "<group>"; };
+		F6755A2D2B4C3B93003221F3 /* ChatService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatService.swift; sourceTree = "<group>"; };
+		F6C555852B28B531004CA366 /* StudyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyView.swift; sourceTree = "<group>"; };
+		F6C555872B2F2F71004CA366 /* VegetableDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableDetailView.swift; sourceTree = "<group>"; };
+		F6F00E372B0B7F18004BFA5F /* PrincipalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrincipalView.swift; sourceTree = "<group>"; };
+		F6F00E392B0C332D004BFA5F /* TabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,8 +91,27 @@
 			children = (
 				F60745C72B06C867002F8E62 /* neco_app_t01App.swift */,
 				F60745C92B06C867002F8E62 /* ContentView.swift */,
+				F60745D52B06D0F8002F8E62 /* Wellcome01View.swift */,
+				F60745D92B06EB28002F8E62 /* Wellcome02View.swift */,
+				F60745DB2B06ED88002F8E62 /* Wellcome03View.swift */,
+				F6F00E372B0B7F18004BFA5F /* PrincipalView.swift */,
+				F6C555872B2F2F71004CA366 /* VegetableDetailView.swift */,
+				F64EF57D2B6FA979007EA705 /* VegetableDetailView2.swift */,
+				F64EF57F2B6FAE3B007EA705 /* VegetableDetailView3.swift */,
+				F6F00E392B0C332D004BFA5F /* TabView.swift */,
+				F64EF5772B618046007EA705 /* Search.swift */,
+				F66812A22B0ED0BF00948CF2 /* CookBookView.swift */,
+				F66812A42B10084800948CF2 /* LearnSessionView.swift */,
+				F6755A2B2B4C2E99003221F3 /* Chat_View01.swift */,
+				F6755A2D2B4C3B93003221F3 /* ChatService.swift */,
+				F6C555852B28B531004CA366 /* StudyView.swift */,
+				F64EF5732B5D7F1C007EA705 /* CourseDetails01_View.swift */,
+				F64EF5752B5D8223007EA705 /* CourseTabView.swift */,
+				F64EF57B2B6298B1007EA705 /* AIView.swift */,
+				F64EF5812B7269AB007EA705 /* WebView.swift */,
 				F60745CB2B06C869002F8E62 /* Assets.xcassets */,
 				F60745CD2B06C869002F8E62 /* Preview Content */,
+				F64EF5792B629806007EA705 /* TesteView\.swift */,
 			);
 			path = neco_app_t01;
 			sourceTree = "<group>";
@@ -137,8 +194,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F60745DA2B06EB28002F8E62 /* Wellcome02View.swift in Sources */,
+				F6F00E382B0B7F18004BFA5F /* PrincipalView.swift in Sources */,
+				F60745D62B06D0F8002F8E62 /* Wellcome01View.swift in Sources */,
 				F60745CA2B06C867002F8E62 /* ContentView.swift in Sources */,
+				F6755A2E2B4C3B93003221F3 /* ChatService.swift in Sources */,
+				F64EF5742B5D7F1C007EA705 /* CourseDetails01_View.swift in Sources */,
+				F64EF5822B7269AB007EA705 /* WebView.swift in Sources */,
+				F64EF5762B5D8223007EA705 /* CourseTabView.swift in Sources */,
+				F6755A2C2B4C2E99003221F3 /* Chat_View01.swift in Sources */,
+				F6C555882B2F2F71004CA366 /* VegetableDetailView.swift in Sources */,
+				F64EF57E2B6FA979007EA705 /* VegetableDetailView2.swift in Sources */,
+				F6C555862B28B531004CA366 /* StudyView.swift in Sources */,
+				F64EF57C2B6298B1007EA705 /* AIView.swift in Sources */,
+				F6F00E3A2B0C332D004BFA5F /* TabView.swift in Sources */,
+				F64EF57A2B629806007EA705 /* TesteView\.swift in Sources */,
+				F64EF5802B6FAE3B007EA705 /* VegetableDetailView3.swift in Sources */,
 				F60745C82B06C867002F8E62 /* neco_app_t01App.swift in Sources */,
+				F64EF5782B618046007EA705 /* Search.swift in Sources */,
+				F60745DC2B06ED88002F8E62 /* Wellcome03View.swift in Sources */,
+				F66812A32B0ED0BF00948CF2 /* CookBookView.swift in Sources */,
+				F66812A52B10084800948CF2 /* LearnSessionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,7 +355,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Huawei.neco-app-t01";
+				PRODUCT_BUNDLE_IDENTIFIER = Neco.app01;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -307,7 +383,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Huawei.neco-app-t01";
+				PRODUCT_BUNDLE_IDENTIFIER = Neco.app01;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

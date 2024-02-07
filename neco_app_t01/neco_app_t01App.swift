@@ -11,7 +11,10 @@ import SwiftUI
 struct neco_app_t01App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //VegetableGardenView()
+//            IAView()
+//            Tab()
+            WelcomeView()
         }
     }
 }

@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2024-01-21 14.53.01 - Create an illustration of a cartoon lettuce character that is very similar to the one provided. The character should have the same bright green color .png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "DALL·E 2024-01-21 14.53.01 - Create an illustration of a cartoon lettuce character that is very similar to the one provided. The character should have the same bright green color  1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "DALL·E 2024-01-21 14.53.01 - Create an illustration of a cartoon lettuce character that is very similar to the one provided. The character should have the same bright green color  2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
